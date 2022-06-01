@@ -1,12 +1,14 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p> I'm Chulhee, Frontend developer at <picture>
-  <source srcset="https://user-images.githubusercontent.com/39752259/171427454-e07abb6f-2fac-4df5-ae35-354ca7b98a07.png" media="(prefers-color-scheme: dark)">
-  <img src="https://user-images.githubusercontent.com/39752259/171427563-c39f16d4-579e-40a6-a908-0bdc2675a160.png">
-</picture>. </p>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Nice to see you.</h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p> 
+  I'm Chulhee, Frontend developer at 
+  <picture>
+    <source srcset="https://user-images.githubusercontent.com/39752259/171427454-e07abb6f-2fac-4df5-ae35-354ca7b98a07.png" media="(prefers-color-scheme: dark)">
+    <img src="https://user-images.githubusercontent.com/39752259/171427563-c39f16d4-579e-40a6-a908-0bdc2675a160.png">
+  </picture>. 
+</p>
 
-
-
-### Social
+### Where to find me
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)
 ![bolg](https://img.shields.io/badge/-BLOG-lightgrey?style=for-the-badge)
 
