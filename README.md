@@ -1,21 +1,14 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<p> I'm Chulhee, Frontend developer at <picture>
+  <source srcset="https://user-images.githubusercontent.com/39752259/171427454-e07abb6f-2fac-4df5-ae35-354ca7b98a07.png" media="(prefers-color-scheme: dark)">
+  <img src="https://user-images.githubusercontent.com/39752259/171427563-c39f16d4-579e-40a6-a908-0bdc2675a160.png">
+</picture>. </p>
 
-<!--
-**jch1223/jch1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Intro
-2년 차 프론트엔드 개발자입니다. 개발 관련된 블로그 글을 작성하여 기억을 보존하고, 글로 정리를 하는 과정에서 이해도를 높이기 위해 노력합니다.
+### Social
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)
+![bolg](https://img.shields.io/badge/-BLOG-lightgrey?style=for-the-badge)
 
 ### Tech stack
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -25,7 +18,3 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-
-### Social
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)
-![bolg](https://img.shields.io/badge/-BLOG-lightgrey?style=for-the-badge)
