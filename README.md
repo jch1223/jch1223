@@ -22,13 +22,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 554 Contributions in the Year 2022
+> 🏆 557 Contributions in the Year 2022
  > 
 > 📦 197.4 kB Used in GitHub's Storage 
  > 
@@ -63,12 +59,8 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/jch1223/jch1223/main/charts/bar_graph.png) 
-
-
- Last Updated on 01/06/2022 16:05:46 UTC
+ Last Updated on 01/06/2022 16:29:45 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
