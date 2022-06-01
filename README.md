@@ -9,7 +9,7 @@
 </p>
 
 ### Where to find me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/chulhee-jang)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chulhee-jang)
 [![bolg](https://img.shields.io/badge/-BLOG-lightgrey?style=for-the-badge)](https://jcon.tistory.com)
 
 ### Tech stack
