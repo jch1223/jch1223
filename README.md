@@ -24,9 +24,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 557 Contributions in the Year 2022
+> 🏆 594 Contributions in the Year 2022
  > 
-> 📦 197.4 kB Used in GitHub's Storage 
+> 📦 198.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,10 +40,14 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 26 mins       █████████████████░░░░░░░░   70.67% 
+YAML                     1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   29.16% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 51 mins       █████████████████████████   100.0%
 
 ```
 
@@ -60,5 +64,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2022 16:29:45 UTC
+ Last Updated on 03/06/2022 15:18:39 UTC
 <!--END_SECTION:waka-->
